@@ -6,9 +6,9 @@ This repo contains various IPython notebooks I've created to experiment with lib
 
 ### Part 2 - Convolutional Networks
 
-## Part 3 - Recommender Systems
+### Part 3 - Recommender Systems
 
-## Part 4 - Recurrent Networks
+### Part 4 - Recurrent Networks
 
 ### Part 5 - Anomaly Detection
 
